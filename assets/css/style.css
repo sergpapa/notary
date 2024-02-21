@@ -1,0 +1,50 @@
+nav, footer {
+    background-color: #003366;
+    color: #fbfbfb;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    margin: 20px;
+    text-decoration: underline;
+}
+
+footer p {
+    font-size: 12px;
+}
+
+nav a, .fa-bars {
+    color: #fbfbfb; 
+}
+
+a:hover {
+    color: #fbfbfb;
+}
+
+.nav-item a:hover {
+    color: #0099cc;
+    text-decoration: underline;
+}
+
+.nav-item {
+    margin-left: auto;
+}
+
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+}
+
+.navbar-brand {
+    margin-right: 0;
+}
+
+.subtitle {
+    font-size: 14px;
+}
