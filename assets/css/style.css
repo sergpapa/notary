@@ -1,6 +1,32 @@
-.main-colors {
+body {
+    background-color: #fbfbfb;
+}
+
+.rounded-edge {
+    padding: 10px;
+    border-radius: 15px 15px 5px 5px;
+}
+
+.details-open {
+    border-left: 2px solid rgba(0, 51, 102, 0.5);
+    border-right: 2px solid rgba(0, 51, 102, 0.5);
+    border-bottom: 2px solid rgba(0, 51, 102, 0.5);
+    border-radius: 0 0 15px 15px;
+    padding: 25px;
+    
+}
+
+.main-colors-bg-blue {
     background-color: #003366;
     color: #fbfbfb;
+}
+
+.main-colors-bg-white {
+    color: #003366;
+    margin: 20px;
+}
+
+.text-shadow {
     text-shadow: 2px 2px 4px #000000;
 }
 
@@ -51,4 +77,8 @@ a:hover {
 
 .subtitle {
     font-size: 14px;
+}
+
+.service {
+    margin: 5px;
 }
